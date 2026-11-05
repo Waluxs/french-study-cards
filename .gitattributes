@@ -1,0 +1,5 @@
+# Keep generated artifact hashes identical on Windows and Linux.
+public/** -text
+*.py text eol=lf
+*.yml text eol=lf
+*.md text eol=lf
