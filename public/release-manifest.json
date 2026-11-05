@@ -1,5 +1,5 @@
 {
-  "built_at": "2026-11-05T10:07:40+08:00",
+  "built_at": "2026-11-05T10:16:05+08:00",
   "publication_mode": "temporary-public-authorized",
   "deployment_status": "artifact-only; actual deployment is tracked by GitHub Actions",
   "contains_learning_feedback_and_source_images": true,
@@ -11,8 +11,8 @@
   },
   "pages": {
     "近期词块样包-01.html": {
-      "bytes": 945645,
-      "sha256": "570042f75c72b3e99dbd00fb1cbf211af0705f466c15599de061a12692ce88f0"
+      "bytes": 945037,
+      "sha256": "e82d8b2c6c1a20d1e5f9b4f4f4be9d821b1b001e4ddfef04af7d37dcb47548b4"
     },
     "只看法语.html": {
       "bytes": 555374,
@@ -138,6 +138,46 @@
       "bytes": 14299,
       "sha256": "a1cfbfeb8d3d8e0d428dddcd2be453e60530b8c1c61d9a6a18118f791ec75972",
       "mime": "audio/ogg"
+    },
+    "assets/081f4a67a0207a4e8d3fad8e.wav": {
+      "bytes": 117548,
+      "sha256": "081f4a67a0207a4e8d3fad8e07a30674ed402c2a5b9bb20a381dd8ebd9fd4d5b",
+      "mime": "audio/wav"
+    },
+    "assets/8fe546b07e84460d3777e9c4.ogg": {
+      "bytes": 17405,
+      "sha256": "8fe546b07e84460d3777e9c4d52adfd0699dbb6030c83161d44a3401e973ad7a",
+      "mime": "audio/ogg"
+    },
+    "assets/53e134ff431f793cfe9ddb8b.wav": {
+      "bytes": 117548,
+      "sha256": "53e134ff431f793cfe9ddb8b12ed47c53ca67166bd75ae8b531de0cb93de754e",
+      "mime": "audio/wav"
+    },
+    "assets/731697e9e947f8ded3420a34.ogg": {
+      "bytes": 16771,
+      "sha256": "731697e9e947f8ded3420a349f0399fc8dab867f7e34337a1bd3dd59da93a66e",
+      "mime": "audio/ogg"
+    },
+    "assets/600073e7fd6e6903f45bb0c6.wav": {
+      "bytes": 77554,
+      "sha256": "600073e7fd6e6903f45bb0c628943e3c05937bcaf1fa106367ce4db3a7c58143",
+      "mime": "audio/wav"
+    },
+    "assets/dbb42159e5333f9047e1344a.ogg": {
+      "bytes": 14033,
+      "sha256": "dbb42159e5333f9047e1344a691bfc23f1df1be069ced3c567995eab8befc20b",
+      "mime": "audio/ogg"
+    },
+    "assets/f55628e90ac67befd67a9805.ogg": {
+      "bytes": 14060,
+      "sha256": "f55628e90ac67befd67a9805b4a6a001f69e51d533942b623756176cdcfa089c",
+      "mime": "audio/ogg"
+    },
+    "assets/62cefada38fdbe3ae5831957.wav": {
+      "bytes": 109356,
+      "sha256": "62cefada38fdbe3ae583195755794d4afdf8e89eea9a70a5c97385a15e72b292",
+      "mime": "audio/wav"
     },
     "assets/a9c54486d08cba25db6845e2.png": {
       "bytes": 120581,
@@ -610,5 +650,5 @@
       "mime": "image/png"
     }
   },
-  "source_build_time": "2026-11-05T10:07:40+08:00"
+  "source_build_time": "2026-11-05T10:16:04+08:00"
 }
