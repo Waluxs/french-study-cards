@@ -1,21 +1,26 @@
 {
-  "built_at": "2026-11-05T09:42:53+08:00",
+  "built_at": "2026-11-05T10:07:40+08:00",
   "publication_mode": "temporary-public-authorized",
   "deployment_status": "artifact-only; actual deployment is tracked by GitHub Actions",
   "contains_learning_feedback_and_source_images": true,
   "automatic_cross_device_sync": false,
+  "inventory": {
+    "cards": 160,
+    "questions": 235,
+    "coverage": "160张关联词卡；全阶段235道正式可回顾去重题。题源全阶段核查，词汇按学习缺口筛选，非每词全收录，不代表掌握。"
+  },
   "pages": {
     "近期词块样包-01.html": {
-      "bytes": 708908,
-      "sha256": "baacc15a0a5aefbc6304dfa7ba14209facbbfa130101d35aa907605b9c37685a"
+      "bytes": 945645,
+      "sha256": "570042f75c72b3e99dbd00fb1cbf211af0705f466c15599de061a12692ce88f0"
     },
     "只看法语.html": {
-      "bytes": 413643,
-      "sha256": "56ca731acaba5b5c816f921a3bc4ac3d162ea7d6b5b55e1128d434bbd63a9c3a"
+      "bytes": 555374,
+      "sha256": "b80c0c67d7963793b26770ac31cb88c0c9838e78577e9638acf69d517609c34e"
     },
     "原题回顾.html": {
-      "bytes": 812169,
-      "sha256": "02344b8b0189ff9b2dd05256b83a7a9e465ab3889c5fc7e4569aaace12eb786a"
+      "bytes": 933691,
+      "sha256": "24916c27d5b96ae2ca9cb2e0701124c1ecc345f16188f301e634ab65ebd59cf2"
     }
   },
   "assets": {
@@ -82,6 +87,56 @@
     "assets/cc4961788669e8fe5e9d7b95.ogg": {
       "bytes": 14098,
       "sha256": "cc4961788669e8fe5e9d7b95ec244a46025e2708cd8965f34f1ad8ab64c27aac",
+      "mime": "audio/ogg"
+    },
+    "assets/1980060c00f9ee8b54550626.wav": {
+      "bytes": 117548,
+      "sha256": "1980060c00f9ee8b54550626f71d79e2044e0d466c13fcf40edaa578d8dcff37",
+      "mime": "audio/wav"
+    },
+    "assets/a0a7fd294fdcee0613720e74.ogg": {
+      "bytes": 16879,
+      "sha256": "a0a7fd294fdcee0613720e74d2077ba0c712adc20e8efae4fab1ef20441f2fd5",
+      "mime": "audio/ogg"
+    },
+    "assets/a4285b9f3b209fd91bbbac34.ogg": {
+      "bytes": 15706,
+      "sha256": "a4285b9f3b209fd91bbbac34a323963b3e7309537e22fa0a40a80fa2312a4e27",
+      "mime": "audio/ogg"
+    },
+    "assets/a9bfe26512cfc3b459cbf55f.ogg": {
+      "bytes": 12961,
+      "sha256": "a9bfe26512cfc3b459cbf55f8803ccc80d91711fb85c01fb3627cb156fe183b6",
+      "mime": "audio/ogg"
+    },
+    "assets/182561c2e3b438e49694db79.ogg": {
+      "bytes": 13040,
+      "sha256": "182561c2e3b438e49694db793458a69114ec33f8f05fbc6b2088325a22c41f7f",
+      "mime": "audio/ogg"
+    },
+    "assets/8bf33c85d5d93f6ae9a1cf21.ogg": {
+      "bytes": 14751,
+      "sha256": "8bf33c85d5d93f6ae9a1cf21f68829acd07de8f2299fefd54acc80be200a246c",
+      "mime": "audio/ogg"
+    },
+    "assets/fe4cacf07c62af9797b6ab21.wav": {
+      "bytes": 85356,
+      "sha256": "fe4cacf07c62af9797b6ab21e3df9df6e0b084485c50a47cd87385bc7c990c8a",
+      "mime": "audio/wav"
+    },
+    "assets/89001c1e96b00d5843391126.wav": {
+      "bytes": 109356,
+      "sha256": "89001c1e96b00d5843391126b8412358126ce8a67880a6473bf3fe2cf8a81991",
+      "mime": "audio/wav"
+    },
+    "assets/69b8e08e1a55a5b415f5b6e6.ogg": {
+      "bytes": 15622,
+      "sha256": "69b8e08e1a55a5b415f5b6e62164784cd91d1cdf51345a79f6cb7b871ecaa053",
+      "mime": "audio/ogg"
+    },
+    "assets/a1cfbfeb8d3d8e0d428dddcd.ogg": {
+      "bytes": 14299,
+      "sha256": "a1cfbfeb8d3d8e0d428dddcd2be453e60530b8c1c61d9a6a18118f791ec75972",
       "mime": "audio/ogg"
     },
     "assets/a9c54486d08cba25db6845e2.png": {
@@ -519,9 +574,29 @@
       "sha256": "a153ebb1a1085c2a7e74c4db04cd3edba55fd659b763a3b4f187dbe11f695ee4",
       "mime": "image/png"
     },
+    "assets/11b1ca18533b5bf6f98e96e8.png": {
+      "bytes": 376242,
+      "sha256": "11b1ca18533b5bf6f98e96e862e33d110dbfbeccf039d727dd948f3e493ba359",
+      "mime": "image/png"
+    },
     "assets/ad2baf309bf6bb7e99bfd1dc.png": {
       "bytes": 344257,
       "sha256": "ad2baf309bf6bb7e99bfd1dce3ccaf248773e984065ab402dfdf42d8d973e9b5",
+      "mime": "image/png"
+    },
+    "assets/bef0c68572a8b1969f610fdb.png": {
+      "bytes": 639853,
+      "sha256": "bef0c68572a8b1969f610fdbe9d1fdefc2599fa0e08ea359001761345a5cad7a",
+      "mime": "image/png"
+    },
+    "assets/52d5255655cc290dfd551afd.png": {
+      "bytes": 126806,
+      "sha256": "52d5255655cc290dfd551afdffe00f7b817127ec96ecdc35f91292d4bff4f29c",
+      "mime": "image/png"
+    },
+    "assets/e3104e348cdfcbd09f40e852.png": {
+      "bytes": 1128153,
+      "sha256": "e3104e348cdfcbd09f40e8524c9497ef2dffc3077ba6b278a869791dd9800969",
       "mime": "image/png"
     },
     "assets/96c6f6e5eac3d75025be31af.png": {
@@ -535,5 +610,5 @@
       "mime": "image/png"
     }
   },
-  "source_build_time": "2026-11-05T09:41:40+08:00"
+  "source_build_time": "2026-11-05T10:07:40+08:00"
 }

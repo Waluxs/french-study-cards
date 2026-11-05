@@ -94,6 +94,8 @@ questions = pages['原题回顾.html'].questions
 check(len(vocab) >= 120, f'Unexpected vocabulary card loss: {len(vocab)}')
 check(vocab == recall, 'Vocabulary and recall card ids diverged')
 check(len(questions) >= 208, f'Unexpected question loss: {len(questions)}')
+check(len(vocab) == manifest['inventory']['cards'], 'Card count differs from declared release inventory')
+check(len(questions) == manifest['inventory']['questions'], 'Question count differs from declared release inventory')
 
 # Only the explicit deploy allowlist may enter the public artifact.
 allowed = set(manifest['pages']) | set(manifest['assets']) | {'index.html', '.nojekyll', 'robots.txt', 'release-manifest.json'}
